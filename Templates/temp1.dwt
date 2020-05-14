@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<!-- TemplateBeginEditable name="doctitle" --> 
+<title>無題ドキュメント</title>
+<!-- TemplateEndEditable --> <!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --> 
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+</head>
+
+<body link="#ffffff" vlink="#ffffff" alink="#ffffff">
+<div id="Layer1" style="position:absolute; left:215px; top:236px; width:347px; height:306px; z-index:1; visibility: hidden;"><img src="../gif/pop.gif" width="497" height="491"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#000000"> 
+    <td width="204" height="188" valign="middle"><img src="../img/hiraga.jpg" width="186" height="159"></td>
+    <td width="297" height="188" valign="middle"> <p><font color="#FFFFFF" size="+3">平賀　譲</font></p>
+      <p><font color="#FFFFFF" size="+3">Jyo HIRAGA</font></p>
+      <p><font color="#FFFFFF" size="+2">1878-1943</font></p></td>
+    <td width="202" height="188"> <p>&nbsp;</p></td>
+    <td height="188" colspan="2"> <p>&nbsp;</p></td>
+    <td height="188">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#666666"> <p><img src="../gif/menu.gif" width="74" height="28"> 
+      </p>
+      <table width="86%" border="0" cellspacing="1" cellpadding="1">
+        <tr> 
+          <td width="7%" rowspan="11">&nbsp;</td>
+          <td colspan="2"><font color="#FFFFFF" size="+1"><a href="../top.htm">トップ</a></font></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font size="+1"><a href="../history.htm">略歴</a></font></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font color="#FFFFFF" size="+1">事蹟</font></td>
+        </tr>
+        <tr> 
+          <td width="18%">&nbsp;</td>
+          <td width="75%"><img src="../gif/triangle.gif" width="12" height="12"><font size="2"><a href="../university.htm">総長としての事蹟</a></font></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td><img src="../gif/triangle.gif" width="12" height="12"><font size="2"><a href="../navy.htm">軍人としての事蹟</a></font></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font size="+1"><a href="../research.htm">メンバーの研究</a></font></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font size="+1"><a href="../book.htm#link">リンク</a></font></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font size="+1"><a href="../book.htm#reference">関連書籍</a></font></td>
+        </tr>
+        <tr>
+          <td colspan="2">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font size="2"><a href="../mail.htm">お問い合わせ</a></font></td>
+        </tr>
+        <tr> 
+          <td colspan="2">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td colspan="3"><a href="http://www.nakl.t.u-tokyo.ac.jp/hiraga/gogatsusai-info.htm"><img src="../gif/kokuchi.gif" width="200" height="93" border="0" onMouseMove="MM_showHideLayers('Layer1','','show')" onMouseOut="MM_showHideLayers('Layer1','','hide')"></a></td>
+        </tr>
+      </table></td>
+    <td colspan="4" rowspan="4" align="left" valign="top" bgcolor="#FFFFCC"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
+    <td width="50" rowspan="4" bgcolor="#FFFFCC">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td bgcolor="#666666">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
